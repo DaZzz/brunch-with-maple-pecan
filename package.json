@@ -21,5 +21,6 @@
     "cjsx-brunch": "^0.1.1",
     "jaded-brunch": "^1.7.11",
     "stylus-brunch": "^1.8.1"
-  }
+  },
+  "dependencies": {}
 }
