@@ -1,7 +1,21 @@
 {
-  "name": "your-app",
+  "name": "brunch-with-maple-pecan",
   "version": "0.0.1",
-  "main": "public/app.js",
-  "dependencies": {},
-  "overrides": {}
+  "authors": [
+    "DaZzz <dazmail01@gmail.com>"
+  ],
+  "description": "Brunch skeleton for ReactiveJS",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.12.1",
+    "jquery": "~2.1.1"
+  }
 }
